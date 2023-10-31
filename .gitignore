@@ -29,6 +29,8 @@
 RTE/
 
 **/Drivers/
+**/Debug/
+**/Release/
 *debug
 
 # IAR Settings
