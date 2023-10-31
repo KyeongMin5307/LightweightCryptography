@@ -1,2 +1,0 @@
-../Core/Src/enocoro.c:138:6:ENOCORO_init	32	static
-../Core/Src/enocoro.c:200:6:ENOCORO_keystream	32	static

@@ -1,7 +1,0 @@
-../Core/Src/trivium.c:3:16:trivium_nbit	24	static
-../Core/Src/trivium.c:10:13:trivium_change_bit	24	static
-../Core/Src/trivium.c:20:13:trivium_insert_bits	40	static
-../Core/Src/trivium.c:29:16:trivium_rotate	40	static
-../Core/Src/trivium.c:64:13:trivium_init_state	24	static
-../Core/Src/trivium.c:73:14:trivium_init	24	static
-../Core/Src/trivium.c:99:9:trivium_gen_keystream	24	static
