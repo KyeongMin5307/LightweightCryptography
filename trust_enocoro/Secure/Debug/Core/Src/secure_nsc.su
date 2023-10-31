@@ -1,3 +1,0 @@
-../Core/Src/secure_nsc.c:59:20:SECURE_RegisterCallback	16	static
-../Core/Src/secure_nsc.c:78:20:key_stream	24	static
-../Core/Src/secure_nsc.c:90:20:encrypt_decrypt	24	static

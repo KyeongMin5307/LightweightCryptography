@@ -1,4 +1,0 @@
-../Core/Src/secure_nsc.c:54:20:SECURE_RegisterCallback	16	static
-../Core/Src/secure_nsc.c:73:20:init_ctx	16	static
-../Core/Src/secure_nsc.c:78:20:encrypt	24	static
-../Core/Src/secure_nsc.c:84:20:decrypt	24	static

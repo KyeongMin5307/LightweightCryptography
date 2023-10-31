@@ -1,6 +1,0 @@
-../Core/Inc/lea_cbc.h:6:6:lea_cbc_enc	40	static
-../Core/Inc/lea_cbc.h:35:6:lea_cbc_dec	160	static
-../Core/Src/secure_nsc.c:55:20:SECURE_RegisterCallback	16	static
-../Core/Src/secure_nsc.c:74:20:set_key	16	static
-../Core/Src/secure_nsc.c:80:20:encrypt	24	static
-../Core/Src/secure_nsc.c:85:20:decrypt	24	static

@@ -1,3 +1,0 @@
-/Users/hanseul/STM32CubeIDE/workspace_1.11.2/trust_present/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash_ramfunc.c:91:30:HAL_FLASHEx_EnableRunPowerDown	1
-/Users/hanseul/STM32CubeIDE/workspace_1.11.2/trust_present/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash_ramfunc.c:104:30:HAL_FLASHEx_DisableRunPowerDown	1
-/Users/hanseul/STM32CubeIDE/workspace_1.11.2/trust_present/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash_ramfunc.c:129:30:HAL_FLASHEx_OB_DBankConfig	19
