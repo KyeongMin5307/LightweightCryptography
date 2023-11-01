@@ -94,7 +94,7 @@ CMSE_NS_ENTRY void decrypt(uint8_t* cipher, uint8_t* plain){
 	memcpy(temp, cipher, STRING_LENGTH);
 
 	for (int i = 0; i < NUM_ENC; ++i)
-		AES_ECB_encrypt(&ctx, temp + (i * 16));
+		AES_ECB_decrypt(&ctx, temp + (i * 16));
 
 	memcpy(plain, temp, STRING_LENGTH);
 }

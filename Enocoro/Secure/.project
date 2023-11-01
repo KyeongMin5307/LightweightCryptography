@@ -33,93 +33,87 @@
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_cortex.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_cortex.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_cortex.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_dma.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_dma.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_dma.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_dma_ex.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_dma_ex.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_dma_ex.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_exti.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_exti.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_exti.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_flash.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_flash_ex.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash_ex.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash_ex.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_flash_ramfunc.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash_ramfunc.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_flash_ramfunc.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_gpio.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_gpio.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_gpio.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_gtzc.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_gtzc.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_gtzc.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_i2c.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_i2c.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_i2c.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_i2c_ex.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_i2c_ex.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_i2c_ex.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_icache.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_icache.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_icache.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_pwr.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_pwr.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_pwr.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_pwr_ex.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_pwr_ex.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_pwr_ex.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_rcc.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_rcc.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_rcc.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32L5xx_HAL_Driver/stm32l5xx_hal_rcc_ex.c</name>
 			<type>1</type>
-			<locationURI>copy_PARENT/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_rcc_ex.c</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Common/Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_hal_rcc_ex.c</locationURI>
 		</link>
 	</linkedResources>
-	<variableList>
-		<variable>
-			<name>copy_PARENT</name>
-			<value>$%7BPARENT-1-PROJECT_LOC%7D/second_enocoro</value>
-		</variable>
-	</variableList>
 </projectDescription>
